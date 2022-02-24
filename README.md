@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/Logo.svg" alt="Logo" />
+  <img src=".github/Logo.png" alt="Logo" />
 </p>
 <h3 align="center">
   Ignite training 👨🏻‍🚀 🚀
