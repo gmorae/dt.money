@@ -1,46 +1,60 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src=".github/Logo.svg" alt="Logo" />
+</p>
+<h3 align="center">
+  Ignite training 👨🏻‍🚀 🚀
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gmorae/dt.money?color=5429CC">
 
-## Available Scripts
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gmorae/dt.money?color=5429CC">
+  	
+  <a href="https://www.linkedin.com/in/gabriel-moraes-martins/">
+    <img alt="Made by gmorae" src="https://img.shields.io/badge/made%20by-Gabriel Moraes-%2304D361?color=5429CC">
+  </a>
+  
+  <a href="https://github.com/gmorae/dt.money/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gmorae/dt.money?color=5429CC">
+  </a>
 
-In the project directory, you can run:
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=5429CC">
+   
+   <a href="https://github.com/gmorae/dt.money/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/gmorae/dt.money?color=5429CC">
+  </a>
+   
+</p>
 
-### `yarn start`
+<img alt="Capa" src=".github/Capa.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🛠 Tecnologias
 
-### `yarn test`
+This project was developed using the following technologies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React][reactjs]
+- [TypeScript][typescript]
 
-### `yarn build`
+## 🚀 Run the project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Clone the project
+$ git clone https://github.com/gmorae/dt.money
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Access the folder
+$ cd dt.money
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Install the dependencies
+$ yarn
 
-### `yarn eject`
+# Start the project
+$ yarn start
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# The app will be available for access on your browser at http://localhost:3000
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Made with ❤️ by Gabriel Moraes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gabriel-moraes-martins/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[typescript]: https://www.typescriptlang.org/
+[reactjs]: https://reactjs.org
